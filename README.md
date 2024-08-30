@@ -26,7 +26,9 @@ Para loguearse:
 usuario: Jose
 
 clave: coder1234
-4.	Ya puedes utilizar tu aplicación Django en el navegador.
+
+
+Ya puedes utilizar tu aplicación Django en el navegador.
 
 
 
